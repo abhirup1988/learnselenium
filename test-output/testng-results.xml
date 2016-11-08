@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53919" started-at="2016-11-01T11:39:26Z" finished-at="2016-11-01T11:40:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53919" started-at="2016-11-01T11:39:26Z" finished-at="2016-11-01T11:40:19Z">
+      <class name="base_class.Dynamic_browser">
+        <test-method status="PASS" signature="open_browser()[pri:0, instance:base_class.Dynamic_browser@1604f19]" name="open_browser" is-config="true" duration-ms="10770" started-at="2016-11-01T17:09:26Z" finished-at="2016-11-01T17:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method status="PASS" signature="ver_title()[pri:0, instance:base_class.Dynamic_browser@1604f19]" name="ver_title" duration-ms="68" started-at="2016-11-01T17:09:36Z" finished-at="2016-11-01T17:09:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ver_title -->
+        <test-method status="PASS" signature="Registration()[pri:0, instance:base_class.Dynamic_browser@1604f19]" name="Registration" duration-ms="32434" started-at="2016-11-01T17:09:36Z" finished-at="2016-11-01T17:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:base_class.Dynamic_browser@1604f19]" name="Login" duration-ms="1625" started-at="2016-11-01T17:10:09Z" finished-at="2016-11-01T17:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Index_Assignment1_count_no_of_box()[pri:0, instance:base_class.Dynamic_browser@1604f19]" name="Index_Assignment1_count_no_of_box" duration-ms="65" started-at="2016-11-01T17:10:10Z" finished-at="2016-11-01T17:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Index_Assignment1_count_no_of_box -->
+        <test-method status="PASS" signature="Index_Assignment2()[pri:0, instance:base_class.Dynamic_browser@1604f19]" name="Index_Assignment2" duration-ms="8923" started-at="2016-11-01T17:10:11Z" finished-at="2016-11-01T17:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Index_Assignment2 -->
+      </class> <!-- base_class.Dynamic_browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
